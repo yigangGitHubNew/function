@@ -1,6 +1,6 @@
 package com.wuyg.tool.factory.service.impl;
 
-import com.wuyg.tool.bean.ManagerFactory;
+import com.wuyg.tool.factory.ManagerFactory;
 import com.wuyg.tool.factory.bean.SpecialMtWhitelistDto;
 //import com.wuyg.tool.factory.manager.ChannelAppManager;
 import com.wuyg.tool.factory.manager.MtWhitelistManager;

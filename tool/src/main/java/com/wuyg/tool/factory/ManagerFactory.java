@@ -1,4 +1,4 @@
-package com.wuyg.tool.bean;
+package com.wuyg.tool.factory;
 
 /**
  * 组件层抽象工厂接口

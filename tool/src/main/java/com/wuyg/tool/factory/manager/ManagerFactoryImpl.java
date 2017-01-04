@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 //import org.slf4j.Logger;
 //import org.slf4j.LoggerFactory;
 
-import com.wuyg.tool.bean.ManagerFactory;
+import com.wuyg.tool.factory.ManagerFactory;
 
 /**
  * 工厂创建方法
