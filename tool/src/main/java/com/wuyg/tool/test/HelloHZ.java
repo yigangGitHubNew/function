@@ -52,8 +52,4 @@ public class HelloHZ {
 	public void setToCtract(String toCtract) {
 		this.toCtract = toCtract;
 	}
-
-
-	
-	
 }
